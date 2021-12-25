@@ -3,3 +3,6 @@ __pycache__/
 
 # check point ipynb files
 .ipynb_checkpoints/
+
+# tensorflow log dir
+model_logs/
